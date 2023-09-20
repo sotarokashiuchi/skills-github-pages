@@ -1,6 +1,6 @@
 ---
 title: Welcome to Kashiuchi's blog!!
-# Profile
-- My name is Kashiuchi!
 ---
 
+# Profile
+- My name is Kashiuchi!
